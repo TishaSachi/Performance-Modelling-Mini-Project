@@ -1,0 +1,25 @@
+Test ID,Timestamp / Date,Song Name / Track ID,User ID (anonymized),Device Type,App Version,Network Type,Speed (Mbps),RTT / Ping (ms),ISP / Network Provider,Region / City,Time of Day,Song Duration (s),Start Delay (s),Buffer Count,Total Buffer Time (s),notes
+T0001,10/31/2025 18:05,Night Changes,U001,Android,9.0.90.1229,4G,3.87,54.29,Dialog,colombo,Evening,226,0.56,0,0,play well
+T0002,10/31/2025 18:20,What makes you beautiful,U001,Android,9.0.90.1229,4G,2.32,70.42,Dialog,colombo,Evening,199,1.11,0,0,play well
+T0003,10/31/2025 18:50,Number one girl,U001,Android,9.0.90.1229,4G,3.68,62.49,Dialog,colombo,Evening,226,0.48,0,0,play well
+T0004,10/31/2025 19:30,Sinhala Punjabi Medley Vol2,U002,Android,9.0.90.1229,4G,1.75,67.69,Airtel,colombo,Night,304,1.64,0,0,play well
+T0005,10/31/2025 19:50,Rawana,U002,Android,9.0.90.1229,Wi-Fi,16.8,50.31,SLT Mobitel,colombo,Night,182,1.54,0,0,play well
+T0006,10/31/2025 20:15,Rawana,U002,Android,9.0.90.1229,3G,0.06,151.69,Airtel,colombo,Night,182,None,None, None,didn't play with 3G
+T0007,10/31/2025 21:00,Suzume,U002,Android,9.0.90.1229,Wi-Fi,9.21,62.44,SLT Mobitel,colombo,Night,238,1.14,0,0,play well
+T0008,10/31/2025 21:15,Gum Nade,U002,Android,9.0.90.1229,4G,1.62,58.64,Airtel,colombo,Night,301,4.76,0,0,High time
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
