@@ -11,15 +11,31 @@ T0009,12/3/2025 9:56,Thelakataha Gaatha,U001,Android,9.0.98.1187,Wi-Fi,10.7,153.
 T0010,12/3/2025 10:15,Bones,U001,Android,9.0.98.1187,3G,0.03,382.795,Dialog,colombo,Morning,165,0.98,0,0,play well
 T0011,12/3/2025 11:15,Ape gam gode,U001,Android,9.0.98.1187,3G,0.04,270.46,Dialog,colombo,Morning,327,1.55,0,0,play well
 T0012,12/3/2025 11:30,Demons,U001,Android,9.0.98.1187,4G,1.08,72.43,Dialog,colombo,Morning,177,0.43,0,0,play well
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+T0013,12/11/2025 08:10,7 rings,U001,Android,9.0.98.1187,Wi-Fi,12.5,48.21,Dialog,colombo,Morning,178,0.72,0,0,play well
+T0014,12/11/2025 08:25,On The Ground,U001,Android,9.0.98.1187,4G,3.21,66.44,Dialog,colombo,Morning,171,1.01,0,0,play well
+T0015,12/11/2025 08:40,Pink Venom,U001,Android,9.0.98.1187,4G,2.64,58.9,Dialog,colombo,Morning,187,0.88,0,0,play well
+T0016,12/11/2025 09:00,Story of My Life,U001,Android,9.0.98.1187,4G,1.98,72.34,Dialog,colombo,Morning,255,1.44,0,0,play well
+T0017,12/11/2025 09:40,What Makes You Beautiful,U001,Android,9.0.98.1187,4G,3.42,61.79,Dialog,colombo,Morning,199,0.54,0,0,smooth
+T0018,12/11/2025 10:05,Drag Me Down,U001,Android,9.0.98.1187,3G,0.05,189.33,Dialog,colombo,Morning,193,,,,did not load
+T0019,12/11/2025 10:45,Night Changes,U002,Android,9.0.98.1187,4G,2.98,63.55,Dialog,colombo,Morning,232,0.48,0,0,play well
+T0020,12/11/2025 11:10,Gangnam Style,U002,Android,9.0.98.1187,Wi-Fi,11.9,45.22,SLT Mobitel,colombo,Morning,215,0.39,0,0,play well
+T0021,12/11/2025 11:30,Money (Lisa),U002,Android,9.0.98.1187,4G,2.51,70.44,Airtel,colombo,Morning,166,1.07,0,0,play well
+T0022,12/11/2025 14:35,Best Song Ever,U002,Android,9.0.98.1187,4G,3.11,55.9,Dialog,colombo,Afternoon,201,0.63,0,0,play well
+T0023,12/11/2025 15:20,Demons,U002,Android,9.0.98.1187,Wi-Fi,10.2,47.18,SLT Mobitel,colombo,Afternoon,177,0.41,0,0,play well
+T0024,12/11/2025 15:40,Steal My Girl,U002,Android,9.0.98.1187,4G,2.31,62.81,Dialog,colombo,Afternoon,231,0.58,0,0,play well
+T0025,12/11/2025 16:25,Gum Nade,U002,Android,9.0.98.1187,3G,0.04,210.33,Airtel,colombo,Afternoon,301,0.98,0,0,slow start
+T0026,12/11/2025 17:10,Sinhala Punjabi Medley Vol2,U002,Android,9.0.98.1187,3G,0.03,250.2,Dialog,colombo,Evening,304,,,,not playable
+T0027,12/11/2025 17:35,How You Like That,U002,Android,9.0.98.1187,Wi-Fi,15.1,55.81,SLT Mobitel,colombo,Evening,182,0.57,0,0,play well
+T0028,12/11/2025 18:00,Ddu-Du Ddu-Du,U002,Android,9.0.98.1187,4G,2.74,64.77,Airtel,colombo,Evening,209,0.99,0,0,play well
+T0029,12/11/2025 18:20,Ape Gam Gode,U003,windows(lenovo),1.2.78.418.gaeeb5ebd,Wi-Fi,9.88,49.9,SLT Mobitel,colombo,Evening,327,0.65,0,0,play well
+T0030,12/11/2025 18:45,Until I Found You,U003,windows(lenovo),1.2.78.418.gaeeb5ebd,Wi-Fi,7.67,59.44,Dialog,colombo,Evening,196,0.52,0,0,good
+T0031,12/11/2025 19:10,Suzume,U003,windows(lenovo),1.2.78.418.gaeeb5ebd,Wi-Fi,8.53,50.4,Dialog,colombo,Evening,238,1.68,0,0,playable
+T0032,12/11/2025 19:40,Rawana,U003,windows(lenovo),1.2.78.418.gaeeb5ebd,Wi-Fi,7.86,57.56,Dialog,colombo,Night,182,0.88,0,0,play well
+T0033,12/11/2025 20:05,On The Ground,U003,windows(lenovo),1.2.78.418.gaeeb5ebd,Wi-Fi,13.2,48.01,SLT Mobitel,colombo,Night,171,0.36,0,0,play well
+T0034,12/11/2025 20:55,History,U003,windows(lenovo),1.2.78.418.gaeeb5ebd,Wi-Fi,9.98,50.4,Dialog,colombo,Night,201,1.55,0,0,slightly slow
+T0035,12/11/2025 22:35,Night Changes,U003,windows(lenovo),1.2.78.418.gaeeb5ebd,Wi-Fi,10.9,49.35,Dialog,colombo,Night,232,0.41,0,0,smooth
+T0036,12/11/2025 23:25,Demons,U004,Android,9.0.98.1187,4G,2.74,71.99,Dialog,colombo,Night,177,0.78,0,0,play well
+T0037,12/11/2025 23:50,Gum Nade,U004,Android,9.0.98.1187,Wi-Fi,12,53.11,Dialog,colombo,Night,301,0.44,0,0,good
+T0038,12/12/2025 08:25,Money (Lisa),U004,Android,9.0.98.1187,4G,2.88,63.88,Dialog,colombo,Morning,166,0.58,0,0,play well
+T0039,12/12/2025 10:15,Rawana,U004,Android,9.0.98.1187,4G,1.71,82.91,Dialog,colombo,Morning,182,1.34,0,0,slightly slow
+T0040,12/12/2025 10:55,Bones,U004,Android,9.0.98.1187,4G,3.45,59.4,Dialog,colombo,Morning,165,0.47,0,0,play well
